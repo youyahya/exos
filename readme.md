@@ -20,3 +20,4 @@ Texte en **gras**,
  ```
 
  Pour finir, un lien https://forums.fast.ai/t/multiple-observations-per-subject-rnn-lstm-data-formatting/45138
+c'est tout pour les bases du markdown
